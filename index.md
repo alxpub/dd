@@ -16,6 +16,6 @@ layout: default
 
 ## Ссылки на все статьи
 
-[Белки](./protein.md)
-[Жиры](./fat.md)
-[Углеводы](./carbohydrate.md)
+- [Белки](./protein.md)
+- [Жиры](./fat.md)
+- [Углеводы](./carbohydrate.md)
