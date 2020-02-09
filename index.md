@@ -18,16 +18,17 @@ layout: default
 	- **Жиры**: 10% (1 грамм 9 ккал): 260 ккал - 29 грамм
 	- **Углеводы**; 60% (1 грамм 4 ккал): 1560 ккал - 390 грамм
 
----
+
 
 - Вода 1 литр на каждые 30 килограм веса
 - Соль примерно 3-5 грамм в день
 - При возможности ходить 30 минут в день, 5 раз в неделю (6000-10000 шагов в день)
 - Овощи 500 грамм в день
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lnnl7Jyf3hU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dzISo0D7HJI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnnl7Jyf3hU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
