@@ -4,6 +4,7 @@
 html {
 	font-family: Arial;
 	font-size: 18px;
+	background: #ccc;
 }
 
 a {
@@ -13,4 +14,6 @@ a {
 .site_wrapper {
 	max-width: 960px;
 	margin: 0 auto;
+	padding: 10px;
+	background-attachment: #fff;
 }
