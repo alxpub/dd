@@ -47,3 +47,6 @@ layout: default
 
 ### Гормоны
 - [Кортизол](./cortisol.md)
+
+### Разное
+- [Инсулинорезистентность](./insulin-resistance.md)
