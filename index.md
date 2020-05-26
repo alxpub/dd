@@ -26,11 +26,6 @@ layout: default
 - При возможности ходить 30 минут в день, 5 раз в неделю (6000-10000 шагов в день)
 - Овощи 500 грамм в день
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dzISo0D7HJI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lnnl7Jyf3hU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 ## Ссылки на все статьи
@@ -50,3 +45,13 @@ layout: default
 
 ### Разное
 - [Инсулинорезистентность](./insulin-resistance.md)
+
+## Ссылки на все статьи
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dzISo0D7HJI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnnl7Jyf3hU?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Проверка глюкометром
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbYKJLUC8Bo?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
