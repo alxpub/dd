@@ -46,7 +46,7 @@ layout: default
 ### Разное
 - [Инсулинорезистентность](./insulin-resistance.md)
 
-## Ссылки на все статьи
+## Ссылки на интересные видео
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dzISo0D7HJI?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
